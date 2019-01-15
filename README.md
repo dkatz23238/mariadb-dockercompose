@@ -6,4 +6,4 @@ docker-compose.yml for SQL database
  - 1) first clone the directory
  - 2) then modify the .env file
  - 3) run ``sudo docker-compose up``
- - 4) mariadb will be through port 3306
+ - 4) mariadb will be listening on port 3306
